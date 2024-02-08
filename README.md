@@ -18,3 +18,18 @@
 
 ## Judul Proyek 
 <p> </p>
+
+## Penjelasan Proyek
+<p> </p>
+
+## Komponen Proyek
+<p> </p>
+
+## Pembagian Tim
+<p> </p>
+
+## Demo Proyek 
+<ul>
+  <li>Github : <a href=""> </a> </li>
+  <li>Youtube : <a href=""> </a> </li>
+</ul> 
