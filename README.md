@@ -4,7 +4,7 @@
 <li>Dosen pengampu: <a href="https://github.com/Muhammad-Ikhwan-Fathulloh">Muhammad Ikhwan Fathulloh<a></li>
 </ul> 
 
-##Kelompok 
+Kelompok 
 <ul>
 <li>Kelompok : Kelompok 10</li>
 <li>Proyek : Sistem Quix</li>
@@ -16,4 +16,4 @@
 </ul> 
 </ul> 
 
-##Judul Proyek 
+Judul Proyek 
