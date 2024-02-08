@@ -1,5 +1,4 @@
-# Aditya
-Struktur data Kelompok 10
+# Struktur Data Kelompok 10
 <ul>
 <li>Mata kuliah : Struktur data</li>
 <li>Dosen pengampu: <a href="https://github.com/Muhammad-Ikhwan-Fathulloh">Muhammad Ikhwan Fathulloh<a></li>
@@ -17,4 +16,4 @@ Struktur data Kelompok 10
 </ul> 
 </ul> 
 
-#Judul Proyek 
+##Judul Proyek 
