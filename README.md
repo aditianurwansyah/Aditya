@@ -10,11 +10,11 @@
 <li>Proyek : Sistem Quix</li>
 <li>Anggota</li>
 <ul>
-<li>Ketua :<a href=" ">Aditia Nurwansyah</a></li>
-<li>Anggota 1: <a href=" ">Aziza Firdaus</a></li>
-<li>Anggota 2: <a href=" ">Muhammad Raffi Fadhillah</a></li> 
+<li>Ketua :<a href=" "> Aditia Nurwansyah</a></li>
+<li>Anggota 1: <a href=" "> Aziza Firdaus</a></li>
+<li>Anggota 2: <a href=" "> Muhammad Raffi Fadhillah</a></li> 
 </ul> 
 </ul> 
 
-## Judul Proyek
-
+## Judul Proyek 
+<p> </p>
