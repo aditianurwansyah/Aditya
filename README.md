@@ -7,7 +7,7 @@
 ## Kelompok 
 <ul>
 <li>Kelompok : Kelompok 10</li>
-<li>Proyek : Sistem Quix</li>
+<li>Proyek : Sistem Quiz</li> 
 <li>Anggota</li>
 <ul>
 <li>Ketua :<a href=" "> Aditia Nurwansyah</a></li>
