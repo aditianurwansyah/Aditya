@@ -20,7 +20,7 @@
 <p>Sistem Quiz</p> 
 
 ## Penjelasan Proyek
-<p></p>
+<p>Sistem Quiz yang saya kerjakan itu adalah sebuah sistem quiz yang dimana berhubungan dengan quiz yang saya sudah coba sejak lama yaitu quizz, lalu pada saat saya menyoba quizz itu serasa sangat menantang sehingga saya ingin mengerjakan project sistem quiz berdasarkan dari quizz tersebut.</p>
 
 ## Komponen Proyek
 <p>record digunakan untuk peserta
