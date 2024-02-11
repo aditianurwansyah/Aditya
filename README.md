@@ -20,7 +20,7 @@
 <p>Sistem Quiz</p> 
 
 ## Penjelasan Proyek
-<p>Sistem Quiz yang saya kerjakan itu adalah sebuah sistem quiz yang dimana berhubungan dengan quiz yang saya sudah coba sejak lama yaitu quizz, lalu pada saat saya menyoba quizz itu serasa sangat menantang sehingga saya ingin mengerjakan project sistem quiz berdasarkan dari quizz tersebut.</p>
+<p>Sistem Quiz yang saya kerjakan itu adalah sebuah sistem quiz yang dimana ada hubungannya dengan quiz yang saya sudah coba sejak lama yaitu quizz, kemudian pada saat saya mencoba quizz itu ternyata serasa sangat menantang sehingga saya ingin mengerjakan project sistem quiz berdasarkan dari quizz tersebut.</p>
 
 ## Komponen Proyek
 <p>record digunakan untuk peserta
@@ -32,8 +32,8 @@
    </p>
 
 ## Pembagian Tim
-<p>Penjelaskan spesifikasi untuk program sistem quiz oleh aziza firdaus, Penjelaskan peletakan spesifikasi sistem quiz oleh muhammad Raffi Fadhillah dan Penjelaskan hasil yang telah menggunakan spesifikasi nya oleh aditia nurwansyah</p>  
-
+<p>Penjelasan mengenai spesifikasi untuk program sistem quiz oleh aziza firdaus, Penjelasan mengenai peletakan spesifikasi sistem quiz oleh muhammad Raffi Fadhillah dan Penjelasan mengenai hasil yang telah menggunakan spesifikasi nya oleh aditia nurwansyah</p>  
+ 
 ## Demo Proyek 
 <ul>
   <li>Github : <a href=""> </a> </li>
