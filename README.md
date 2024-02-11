@@ -17,16 +17,21 @@
 </ul> 
 
 ## Judul Proyek 
-<p> </p>
+<p>Sistem Quiz</p> 
 
 ## Penjelasan Proyek
-<p> </p>
+<p></p>
 
 ## Komponen Proyek
-<p> </p>
+<p>record digunakan untuk peserta
+   stack digunakan untuk kategori soal
+   array digunakan untuk soal dan kunci jawaban
+   linkedlist digunakan untuk jawaban peserta
+   Queue digunakan untuk nilai peserta
+   </p>
 
 ## Pembagian Tim
-<p> </p>
+<p>menjelaskan spesifikasi untuk program sistem quiz oleh aziza firdaus, menjelaskan peletakan spesifikasi sistem quiz oleh muhammad Raffi Fadhillah dan menjelaskan hasil yang telah menggunakan spesifikasi nya oleh aditia nurwansyah</p> 
 
 ## Demo Proyek 
 <ul>
