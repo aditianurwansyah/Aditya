@@ -31,7 +31,7 @@
    </p>
 
 ## Pembagian Tim
-<p>menjelaskan spesifikasi untuk program sistem quiz oleh aziza firdaus, menjelaskan peletakan spesifikasi sistem quiz oleh muhammad Raffi Fadhillah dan menjelaskan hasil yang telah menggunakan spesifikasi nya oleh aditia nurwansyah</p> 
+<p>Penjelaskan spesifikasi untuk program sistem quiz oleh aziza firdaus, Penjelaskan peletakan spesifikasi sistem quiz oleh muhammad Raffi Fadhillah dan Penjelaskan hasil yang telah menggunakan spesifikasi nya oleh aditia nurwansyah</p>  
 
 ## Demo Proyek 
 <ul>
