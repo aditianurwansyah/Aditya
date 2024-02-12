@@ -20,15 +20,15 @@
 <p>Sistem Quiz</p> 
 
 ## Penjelasan Proyek
-<p>Sistem Quiz yang saya kerjakan itu adalah sebuah sistem quiz yang dimana ada hubungannya dengan quiz yang saya sudah coba sejak lama yaitu quizz, kemudian pada saat saya mencoba quizz itu ternyata serasa sangat menantang sehingga saya ingin mengerjakan project sistem quiz berdasarkan dari quizz tersebut.</p>
+<p>Sistem Quiz yang saya kerjakan itu adalah sebuah sistem quiz yang dimana ada hubungannya dengan quiz yang saya sudah coba sejak lama yaitu quizz, quizz itu adalah sebuah sistem yang dengan web tool untuk permainan kuis interaktif untuk digunakan dalam pembelajaran dikelas. Kemudian pada saat saya mencoba quizz itu ternyata serasa sangat menantang sehingga saya ingin mengerjakan project sistem quiz berdasarkan dari quizz tersebut.</p> 
 
 ## Komponen Proyek
-<p>record digunakan untuk peserta
+<p>record digunakan untuk menampung data peserta,siswa,soal yang sudah dijawab.
    stack digunakan untuk kategori soal
    array digunakan untuk soal dan kunci jawaban
    linkedlist digunakan untuk jawaban peserta
    Queue digunakan untuk nilai peserta
-   sortting jenis collection digunakan untuk mengurutkan nilai peserta yang berdasarkan nilai yang terbesar itu akan didahulukan. 
+   sortting jenis collection digunakan untuk mengurutkan nilai peserta yang berdasarkan nilai yang terbesar. 
    </p>
 
 ## Pembagian Tim
