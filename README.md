@@ -36,6 +36,6 @@
  
 ## Demo Proyek 
 <ul>
-  <li>Github : <a href="">Github</a></a></li>   
+  <li>Github : <a href="https://github.com/aditianurwansyah/Aditya">Github</a></a></li>    
   <li>Youtube : <a href="">Youtube</a></li>
 </ul> 
