@@ -20,7 +20,7 @@
 <p>Sistem Quiz</p> 
 
 ## Penjelasan Proyek
-<p>Sistem Quiz yang saya kerjakan itu adalah sebuah sistem quiz yang dimana ada hubungannya dengan quiz yang saya sudah coba sejak lama yaitu quizz, quizz itu adalah sebuah sistem yang dengan web tool untuk permainan kuis interaktif untuk digunakan dalam pembelajaran dikelas. Kemudian pada saat saya mencoba quizz itu ternyata serasa sangat menantang sehingga saya ingin mengerjakan project sistem quiz berdasarkan dari quizz tersebut, lalu dimana ada data peserta, kategoti soal, soal dan kunci jawaban, jawaban peserta dan nilai peserta. untuk peringkat itu hanya akan ada pada pilihan tersebut.</p>   
+<p>Sistem Quiz yang saya kerjakan itu adalah sebuah sistem quiz yang dimana ada hubungannya dengan quiz yang saya sudah coba sejak lama yaitu quizz, quizz itu adalah sebuah sistem yang dengan web tool untuk permainan kuis interaktif untuk digunakan dalam pembelajaran dikelas. Kemudian pada saat saya mencoba quizz itu ternyata serasa sangat menantang sehingga saya ingin mengerjakan project sistem quiz berdasarkan dari quizz tersebut, lalu dimana ada data peserta, kategoti soal, soal dan kunci jawaban, jawaban peserta dan nilai peserta. untuk peringkat itu hanya akan ada pada pilihan soal tersebut.</p>   
 
 ## Komponen Proyek
 <p>record digunakan untuk menampung data peserta,siswa,soal yang sudah dijawab.
