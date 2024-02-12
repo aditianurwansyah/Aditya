@@ -28,7 +28,7 @@
    array digunakan untuk soal dan kunci jawaban.
    linkedlist digunakan untuk jawaban peserta.
    Queue digunakan untuk nilai peserta.
-   sortting jenis collection digunakan untuk mengurutkan nilai peserta yang berdasarkan nilai yang terbesar. 
+   sortting jenis collection digunakan untuk mengurutkan nilai peserta yang berdasarkan nilai yang terbesar tapi hanya pada pilihan soal mudah dan sedang saja.  
    </p>
 
 ## Pembagian Tim
