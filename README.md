@@ -24,10 +24,10 @@
 
 ## Komponen Proyek
 <p>record digunakan untuk menampung data peserta,siswa,soal yang sudah dijawab.
-   stack digunakan untuk kategori soal
-   array digunakan untuk soal dan kunci jawaban
-   linkedlist digunakan untuk jawaban peserta
-   Queue digunakan untuk nilai peserta
+   stack digunakan untuk kategori soal yang akan dipilih di akhir.
+   array digunakan untuk soal dan kunci jawaban.
+   linkedlist digunakan untuk jawaban peserta.
+   Queue digunakan untuk nilai peserta.
    sortting jenis collection digunakan untuk mengurutkan nilai peserta yang berdasarkan nilai yang terbesar. 
    </p>
 
