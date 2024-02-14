@@ -37,5 +37,5 @@
 ## Demo Proyek 
 <ul>
   <li>Github : <a href="https://github.com/aditianurwansyah/Aditya">Github</a></a></li>    
-  <li>Youtube : <a href="">Youtube</a></li>
+  <li>Youtube : <a href="https://youtu.be/xu182OBgU2I?si=uYI65FalytYIm_7G">Youtube</a></li> 
 </ul> 
